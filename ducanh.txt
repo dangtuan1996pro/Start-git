@@ -29,7 +29,7 @@ còn muốn xóa luôn thì : rm -f <tenfile>
 * rebase:
 
 
-
+aks
 
 
 * cơ bản về git:
